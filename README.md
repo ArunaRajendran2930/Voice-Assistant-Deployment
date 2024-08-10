@@ -1,3 +1,5 @@
+The Voice Assistant is modelled and that helps the visually challenged to detect objects by recognizing the objects at a particular distance.  The system contains three modules namely- object recognition, text recognition and text to speech conversion, which are implemented using Convolutional Neural Network algorithm and Text to Speech module. The corresponding text is generated. The voice announcement using text-to-speech (TTS) module is synthesised in Python, to make it easier for the visually challenged, to get information about objects in the form of voice. The final model is deployed as a web application onto a local host using Flask and Docker.
+
 # Machine-Learning-Deployment-using-Docker
 
 
